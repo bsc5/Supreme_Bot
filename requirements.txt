@@ -1,0 +1,4 @@
+requirements:
+
+Selenium (pip install scelenium)
+chrome web driver 81 (https://chromedriver.chromium.org/downloads)
