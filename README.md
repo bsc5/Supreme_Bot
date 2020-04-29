@@ -1,2 +1,2 @@
 # Supreme_Bot
-A script written in python to buy automate the process of buys products from websites like Supreme
+A script written in python to  automate the process of buying products from websites like Supreme
